@@ -1,0 +1,5 @@
+<resources>
+    <color name="eco_green">#2E7D5B</color><color name="eco_green_dark">#17513B</color><color name="eco_mint">#DDF4EA</color>
+    <color name="eco_bg">#F5F8F6</color><color name="eco_card">#FFFFFF</color><color name="eco_text">#17352A</color>
+    <color name="eco_muted">#6B7D75</color><color name="eco_orange">#E39B4A</color><color name="eco_red">#C95757</color>
+</resources>

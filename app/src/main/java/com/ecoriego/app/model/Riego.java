@@ -1,0 +1,2 @@
+package com.ecoriego.app.model;
+public class Riego { private int id,plantaId; private String fechaHora; private double temperatura; private boolean llovio; public Riego(int id,int plantaId,String fechaHora,double temperatura,boolean llovio){this.id=id;this.plantaId=plantaId;this.fechaHora=fechaHora;this.temperatura=temperatura;this.llovio=llovio;} public int getId(){return id;} public int getPlantaId(){return plantaId;} public String getFechaHora(){return fechaHora;} public double getTemperatura(){return temperatura;} public boolean isLlovio(){return llovio;} }
